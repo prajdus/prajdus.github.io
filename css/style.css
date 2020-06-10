@@ -1,0 +1,32 @@
+@font-face{
+    font-family: "oswald";
+    src: url("fonts/Oswald/Oswald-Regular.ttf");
+    font-weight: 500;
+}
+
+@font-face{
+    font-family: "oswald-light";
+    src: url("fonts/Oswald/Oswald-ExtraLight.ttf");
+    font-weight: 200;
+}
+
+h1{
+    color: red;
+    font-family: "oswald";
+    
+}
+
+p{
+    color: grey;
+    font-size: 24px;
+    font-family: "oswald";
+    text-align: justify;
+    text-transform: none;
+    font-weight: lighter;
+
+}
+img{
+    width: 300px;
+    height: 200px;
+
+}
