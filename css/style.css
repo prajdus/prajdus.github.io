@@ -10,6 +10,10 @@
     font-weight: 200;
 }
 
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital@1&display=swap');
+ 
+
 h1{
     color: red;
     font-family: "oswald";
@@ -19,7 +23,7 @@ h1{
 p{
     color: grey;
     font-size: 24px;
-    font-family: "oswald";
+    font-family: 'Roboto', sans-serif;
     text-align: justify;
     text-transform: none;
     font-weight: lighter;
