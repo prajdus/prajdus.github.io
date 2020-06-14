@@ -53,6 +53,14 @@ img{
     margin: 1%;
 
  }
+ .img-div{
+     background-color: lightblue;
+ }
+
+ div{
+     display: block;
+     position: relative;
+ }
 
  #img-1 {
      visibility: visible
